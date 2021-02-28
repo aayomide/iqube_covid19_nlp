@@ -7,3 +7,5 @@
 - Develop a prediction model using the following classifiers
   - Logistic Regression
   - LSTM
+
+Solution can also be found and executed [here on google colab](https://colab.research.google.com/drive/1MmTVbAQgzwYv8scGi2lUy7xczgbZn6iR#scrollTo=Oqy2FrDP-FtH)
